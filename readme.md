@@ -2,6 +2,7 @@
 Este projeto é parte do entregável do trabalho da fase 6 do MBA de Arquitetura de soluções da FIAP
 ### Alunos
 Mathias Arno Ludwig
+
 Thiago Oliveira Ferreira
 
 ### Para buildar use:
